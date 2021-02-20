@@ -1,4 +1,4 @@
-tid,Unnamed: 0,State,Delivered,Administered,Percent ,id,code,Popu,tid
+tid,Unnamed: 0,State,Delivered,Administered,Percent ,id,code,Popu,tempID
 1,0,Alaska,271550,199151,27.22334238,2,AK,731545,1
 2,1,Alabama,1032175,672038,13.70615223,1,AL,4903185,2
 3,2,Arkansas,664225,490737,16.26139405,5,AR,3017804,3
