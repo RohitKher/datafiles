@@ -1,4 +1,4 @@
-State,Total_Delivered,Total _Administered,Delivered/100K,Administered/100K,1Dose,1Dose/100K,2 Dose,2Dose/100K,id
+State,Total_Delivered,Total _Administered,Delivered_IOOK,Administered_IOOK,One_Dose,1Dose_IOOK,Two_Dose,Two_Dose_IOOK,id
 Alaska,271550,199151,37120,27223,133491,18248,65245,8919,2
 Alabama,1032175,672038,21051,13706,505660,10313,165104,3367,1
 Arkansas,664225,490737,22010,16261,346623,11486,140662,4661,5
