@@ -1,4 +1,4 @@
-Month,Date,TDAD,Daily_Count_People_ Receiving_Dose 1,Daily_Count_People_Receiving_Dose_2,Total Doses_Administered_Cumulative,People_Receiving_1_or_More_Doses_Cumulative,People_Receiving_2_Doses_Cumulative,Seven-Day_Avg_Daily_Count_Dose_1,Seven-Day_Avg_Total_Doses_Daily,Seven-Day_Avg_Daily_Count _Dose_2
+Month,Date,TDAD,DID,DSD,Total Doses_Administered_Cumulative,People_Receiving_1_or_More_Doses_Cumulative,People_Receiving_2_Doses_Cumulative,Seven-Day_Avg_Daily_Count_Dose_1,Seven-Day_Avg_Total_Doses_Daily,Seven-Day_Avg_Daily_Count _Dose_2
 12,13-12-2020,11225,9935,1173,11225,9935,1173,9935,11225,1173
 12,14-12-2020,3574,3455,4,14799,13390,1177,6695,7400,589
 12,15-12-2020,48720,45305,21,63519,58695,1198,19565,21173,399
