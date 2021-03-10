@@ -1,53 +1,53 @@
 ﻿State,id,Start,End
-Alabama,1,1,79
-Alaska,2,80,158
-Arizona,4,159,213
-Arkansas,5,214,289
-California,6,290,316
-Colorado,8,317,394
-Connecticut,9,395,474
-Delaware,10,475,556
-District of Columbia,11,557,588
-Florida,12,589,670
-Georgia,13,671,747
-Hawaii,15,748,813
-Idaho,16,814,893
-Illinois,17,894,947
-Indiana,18,948,1015
-Iowa,19,1016,1069
-Kansas,20,1070,1120
-Kentucky,21,1121,1195
-Louisiana,22,1196,1270
-Maine,23,1271,1349
-Maryland,24,1350,1424
-Massachusetts,25,1425,1506
-Michigan,26,1507,1588
-Minnesota,27,1589,1662
-Mississippi,28,1663,1733
-Missouri,29,1734,1808
-Montana,30,1809,1887
-Nebraska,31,1888,1968
-Nevada,32,1969,2014
-New Hampshire,33,2015,2060
-New Jersey,34,2061,2139
-New Mexico,35,2140,2175
-New York,36,2176,2251
-North Carolina,37,2252,2326
-North Dakota,38,2327,2404
-Ohio,39,2405,2487
-Oklahoma,40,2488,2566
-Oregon,41,2567,2646
-Pennsylvania,42,2647,2722
-Puerto Rico,72,2723,2768
-Rhode Island,44,2769,2847
-South Carolina,45,2848,2914
-South Dakota,46,2915,2994
-Tennessee,47,2995,3075
-Texas,48,3076,3154
-Utah,49,3155,3234
-Vermont,50,3235,3316
-Virginia,51,3317,3391
-Washington,53,3392,3473
-West Virginia,54,3474,3552
-Wisconsin,55,3553,3629
-Wyoming,56,3630,3704
+Alabama,1,1,59
+Alaska,2,60,118
+Arizona,4,119,177
+Arkansas,5,178,236
+California,6,237,295
+Colorado,8,296,354
+Connecticut,9,355,413
+Delaware,10,414,472
+District of Columbia,11,473,531
+Florida,12,532,590
+Georgia,13,591,649
+Hawaii,15,650,708
+Idaho,16,709,767
+Illinois,17,768,826
+Indiana,18,827,885
+Iowa,19,886,944
+Kansas,20,945,1003
+Kentucky,21,1004,1062
+Louisiana,22,1063,1121
+Maine,23,1122,1180
+Maryland,24,1181,1239
+Massachusetts,25,1240,1298
+Michigan,26,1299,1357
+Minnesota,27,1358,1416
+Mississippi,28,1417,1475
+Missouri,29,1476,1534
+Montana,30,1535,1593
+Nebraska,31,1594,1652
+Nevada,32,1653,1711
+New Hampshire,33,1712,1770
+New Jersey,34,1771,1829
+New Mexico,35,1830,1888
+New York,36,1889,1947
+North Carolina,37,1948,2006
+North Dakota,38,2007,2065
+Ohio,39,2066,2124
+Oklahoma,40,2125,2183
+Oregon,41,2184,2242
+Pennsylvania,42,2243,2301
+Puerto Rico,72,2302,2360
+Rhode Island,44,2361,2419
+South Carolina,45,2420,2478
+South Dakota,46,2479,2537
+Tennessee,47,2538,2596
+Texas,48,2597,2655
+Utah,49,2656,2714
+Vermont,50,2715,2773
+Virginia,51,2774,2832
+Washington,53,2833,2891
+West Virginia,54,2892,2950
+Wisconsin,55,2951,3009
+Wyoming,56,3010,3068
